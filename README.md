@@ -33,9 +33,7 @@ You might need to do it multiple times, as the script is busy running.
 Or you can just close and reopen the Terminal.
 
 
-# 
-
-### Щоб почати виконайте наступні кроки
+## Щоб почати виконайте наступні кроки
 
 1. Скачайте та запустіть Docker: https://docs.docker.com/desktop/
 
@@ -57,23 +55,23 @@ Or you can just close and reopen the Terminal.
 Піднімайте значення доки інтернет все ще працює.
 
 
+⚠️ З україни використання VPN обовʼязкове. Мережі Інтернет в Україні навантаженні у звʼязку з активністю IT Армії. Краще на все робити атаку з Сервера за межами України.
+
 ### Зупинити Скрит
 Для зупинки натисніть `Ctrl+C` в терміналі де виконується скрипт.
 Або просто зачиніть це вікно.
 Для ре-старту виконайте 3-5
 
-# Legal Aspect
+## Legal Aspect
 
 Sending multiple requests is not illegal. You can do it to test your website for example.
 The webiste your atacking can though complain or bring you to court. In this case it's the Russian websites only.
 
 Please don't use this script to attack any civilian companies outside of Russia or Belarus.
 
-# VPN
+## VPN
 
 It's best to use the VPN to protect your IP from getting blocked and to make the attack stronger.
 Best is to use n IP Shuffle, a VPN with Revolving IP Address. In this way the webiste can't cut you out.
 https://blog.hidemyass.com/en/get-lost-in-the-shuffle
 Best to use Russian IP addresses.
-
-З україни використання VPN обовʼязкове. Мережі Интернет в Україні зараз напруженні у звʼязку з активізацією IT Армії. Краше на все робити атаку з Сервера за межами України.
