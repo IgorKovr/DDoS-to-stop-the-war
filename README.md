@@ -8,23 +8,22 @@
 
 - <a id="raw-url" href="https://raw.githubusercontent.com/IgorKovr/DDoS-to-stop-the-war/main/fuck_putin.sh">Ckick Here. </a> File -> Save as.
 
-
 3. Open terminal
 - Mac: Open Spotlight (Cmd+Space), type "terminal"
 - Win: Press Windows+R to open “Run” box. Type “cmd” and then click “OK”
 
-4. Copy-paste the following command and press enter
-
-`docker run -d -p 80:80 docker/getting-started && cd Desktop/ && chmod +x fuck_putin.sh && sh fuck_putin.sh`
+4. Copy-paste the following commands, press enter after each
+- Start the Docker: `docker run -d -p 80:80 docker/getting-started`
+- Run the Script: `chmod +x Desktop/fuck_putin.sh && sh Desktop/fuck_putin.sh`
 
 5. Type in the number of connections in thousands.
 Usualy it's 1 to 20, depending on your internet connection.
 Increment the value until you start noticing it on your internet speed.
 
-#### If you know what git is:
+#### Using git:
 
 2. Clone this Repository
-3. Go to the repository folder and run `sh fuck_putin.sh`
+3. Run `sh fuck_putin.sh`
 4. git pull time-to-time to update the targets
 
 
@@ -49,9 +48,9 @@ Or you can just close and reopen the Terminal.
 - Mac: Відкрийте Spotlight (Cmd+Space), введіть "terminal"
 - Win: Натисніть Windows+R щоб відкрити вікнно “Run”. Напишіть в ньому “cmd” Та нажміть “OK”
 
-4. У вікні скопіюйте та вставте цей код:
-
-`docker run -d -p 80:80 docker/getting-started && cd Desktop/ && chmod +x fuck_putin.sh && sh fuck_putin.sh`
+4. У вікні скопіюйте та вставте ці команди одна за одною:
+- Запустіть Docker: `docker run -d -p 80:80 docker/getting-started` (тільки для першого разу)
+- Запустіть скрипт: `chmod +x Desktop/fuck_putin.sh && sh Desktop/fuck_putin.sh`
 
 5. Введіть кількість одночасних зʼєднань. 
 Зазвичай це цифра від 1 до 20, в залежності від вашого інтернет зв"язку
