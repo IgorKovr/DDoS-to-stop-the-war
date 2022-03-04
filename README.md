@@ -74,3 +74,6 @@ Please don't use this script to attack any civilian companies outside of Russia 
 It's best to use the VPN to protect your IP from getting blocked and to make the attack stronger.
 Best is to use n IP Shuffle, a VPN with Revolving IP Address. In this way the webiste can't cut you out.
 https://blog.hidemyass.com/en/get-lost-in-the-shuffle
+Best to use Russian IP addresses.
+
+З україни використання VPN обовʼязкове. Мережі Интернет в Україні зараз напруженні у звʼязку з активізацією IT Армії. Краше на все робити атаку з Сервера за межами України.
