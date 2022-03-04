@@ -61,3 +61,16 @@ Or you can just close and reopen the Terminal.
 Для зупинки натисніть `Ctrl+C` в терміналі де виконується скрипт.
 Або просто зачиніть це вікно.
 Для ре-старту виконайте 3-5
+
+# Legal Aspect
+
+Sending multiple requests is not illegal. You can do it to test your website for example.
+The webiste your atacking can though complain or bring you to court. In this case it's the Russian websites only.
+
+Please don't use this script to attack any civilian companies outside of Russia or Belarus.
+
+# VPN
+
+It's best to use the VPN to protect your IP from getting blocked and to make the attack stronger.
+Best is to use n IP Shuffle, a VPN with Revolving IP Address. In this way the webiste can't cut you out.
+https://blog.hidemyass.com/en/get-lost-in-the-shuffle
