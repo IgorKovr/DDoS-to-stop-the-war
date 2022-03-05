@@ -1,5 +1,8 @@
 ## DDoS to stop the war 🇺🇦✊
 
+This script randomly bombards URLs from th list for 6 minutes.
+You can set the strength of the atack before running the script, depending on your internet connection.
+
 ### To start, folow these steps:
 
 1. Install & launch Docker: https://docs.docker.com/desktop/
