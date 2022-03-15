@@ -33,7 +33,7 @@ Increment the value until you start noticing it on your internet speed.
 #### Using git:
 
 2. Clone this Repository
-3. Run `sh fuck_putin.sh`
+3. Run `sh fuck_putin.sh` (Ubuntu: `sudo ./fuck_putin.sh`)
 4. git pull time-to-time to update the targets
 
 
