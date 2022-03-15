@@ -14,6 +14,13 @@ You can set the strength of the atack before running the script, depending on yo
 3. Open terminal
 - Mac: Open Spotlight (Cmd+Space), type "terminal"
 - Win: Press Windows+R to open “Run” box. Type “cmd” and then click “OK”
+- Ubuntu: 
+```
+sudo apt-get update
+sudo snap install docker
+sudo snap start docker
+docker --version (to make sure it was installed correctly)
+```
 
 4. Copy-paste the following commands, press enter after each
 - Start the Docker: `docker run -d -p 80:80 docker/getting-started`
