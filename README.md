@@ -87,8 +87,9 @@ Best is to use n IP Shuffle, a VPN with Revolving IP Address. In this way the we
 https://blog.hidemyass.com/en/get-lost-in-the-shuffle
 Best to use Russian IP addresses.
 
-## VPN
-It's best to use remote servers, to increase the strangth of the Attack.
+## Improving efficiency
+It's best to use remote servers to increase the strangth of the Attack.
+You can set as many remote machines as you like, in many different regions, and they would have great internet connection at all times.
 This website gives instructions on how to set up google servers which gives free $300 instanses for new users.
 https://telegra.ph/DDOS-To-Protect-Ukraine-GCloud-02-27
 Ping me if you need help with the translation, or any help to set them up.
