@@ -66,6 +66,7 @@ Or you can just close and reopen the Terminal.
 
 
 ⚠️ З україни використання VPN обовʼязкове. Мережі Інтернет в Україні навантаженні у звʼязку з активністю IT Армії. Краще на все робити атаку з Сервера за межами України.
+https://telegra.ph/DDOS-To-Protect-Ukraine-GCloud-02-27
 
 ### Зупинити Скрит
 Для зупинки натисніть `Ctrl+C` в терміналі де виконується скрипт.
@@ -85,3 +86,9 @@ It's best to use the VPN to protect your IP from getting blocked and to make the
 Best is to use n IP Shuffle, a VPN with Revolving IP Address. In this way the webiste can't cut you out.
 https://blog.hidemyass.com/en/get-lost-in-the-shuffle
 Best to use Russian IP addresses.
+
+## VPN
+It's best to use remote servers, to increase the strangth of the Attack.
+This website gives instructions on how to set up google servers which gives free $300 instanses for new users.
+https://telegra.ph/DDOS-To-Protect-Ukraine-GCloud-02-27
+Ping me if you need help with the translation, or any help to set them up.
